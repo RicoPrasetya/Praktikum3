@@ -1,3 +1,6 @@
+print("Nama : Rico Prasetya")
+print("NIM  : 312210425")
+print("")
 print("Penggunaan End")
 print('A',end='')
 print('B',end='')

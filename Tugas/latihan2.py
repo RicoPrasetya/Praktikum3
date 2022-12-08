@@ -1,3 +1,6 @@
+print("Nama : Rico Prasetya")
+print("NIM  : 312210425")
+print("")
 a=input("Masukkan nilai a : ")
 b=input("Masukkan nilai b : ")
 print("Variabel a = ",a)
